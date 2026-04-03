@@ -1,0 +1,17 @@
+# Laravel & System ignores
+ecommerce12/vendor/
+ecommerce12/node_modules/
+ecommerce12/public/storage
+ecommerce12/storage/*.key
+ecommerce12/.env
+.phpunit.result.cache
+
+# Binary and Large files
+*.zip
+*.rar
+*.gz
+*.tar
+*.7z
+*.sql
+*.exe
+*.log
